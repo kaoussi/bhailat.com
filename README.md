@@ -1,71 +1,34 @@
-# [Start Bootstrap - Coming Soon](https://startbootstrap.com/template-overviews/coming-soon/)
+# Image Grid Effects
 
-[Coming Soon](https://startbootstrap.com/template-overviews/coming-soon/) is a simple coming soon theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a background video with a mobile background image fallback.
+Some inspiration for effects on image grids. The ideas include animations on the opening grid item, the disappearance of the grid and the resulting view.
 
-## Preview
+[Article on Codrops](http://tympanus.net/codrops/?p=25256)
 
-[![Coming Soon Preview](https://startbootstrap.com/assets/img/templates/coming-soon.jpg)](https://blackrockdigital.github.io/startbootstrap-coming-soon/)
+[Demo](http://tympanus.net/Development/ImageGridEffects/)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-coming-soon/)**
+## License
 
-## Status
+Integrate or build upon it for free in your personal or commercial projects. Don't republish, redistribute or sell "as-is". 
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-coming-soon/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-coming-soon.svg)](https://www.npmjs.com/package/startbootstrap-coming-soon)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-coming-soon.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-coming-soon)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-coming-soon/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-coming-soon)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-coming-soon/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-coming-soon?type=dev)
+Read more here: [License](http://tympanus.net/codrops/licensing/)
 
-## Download and Installation
+## Credits
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/coming-soon/)
-* Install via npm: `npm i startbootstrap-coming-soon`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-coming-soon.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-coming-soon)
+[Masonry](http://masonry.desandro.com/) by [David DeSandro](http://desandro.com/). Released under the [MIT license](http://desandro.mit-license.org).
 
-## Usage
+[Font Awesome](https://fortawesome.github.io/Font-Awesome/) created by [Dave Gandy](https://twitter.com/davegandy). License: [Font Awesome license information](http://fontawesome.io/license).
 
-### Basic Usage
+Camera icons made by [Freepik](http://www.flaticon.com/authors/freepik "Freepik") from [www.flaticon.com](http://www.flaticon.com "Flaticon") is licensed by [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/ "Creative Commons BY 3.0")
 
-After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+Images from [Unsplash.com](http://www.unsplash.com)
 
-### Advanced Usage
+## Misc
 
-After installation, run `npm install` and then run `gulp dev` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
+Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/pages/Codrops/159107397912), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/)
 
-#### Gulp Tasks
+[© Codrops 2015](http://www.codrops.com)
 
-- `gulp` the default task that builds everything
-- `gulp dev` browserSync opens the project in your default browser and live reloads when changes are made
-- `gulp sass` compiles SCSS files into CSS
-- `gulp minify-css` minifies the compiled CSS file
-- `gulp minify-js` minifies the themes JS file
-- `gulp copy` copies dependencies from node_modules to the vendor directory
 
-## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-coming-soon/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/coming-soon/).
 
-## Custom Builds
 
-You can hire Start Bootstrap to create a custom build of any template, or create something from scratch using Bootstrap. For more information, visit the **[custom design services page](https://startbootstrap.com/bootstrap-design-services/)**.
-
-## About
-
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
-
-* https://startbootstrap.com
-* https://twitter.com/SBootstrap
-
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* http://davidmiller.io
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-coming-soon/blob/gh-pages/LICENSE) license.
