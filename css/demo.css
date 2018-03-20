@@ -50,7 +50,7 @@ a {
 
 a:hover,
 a:focus {
-	color: #fff;
+	color: #000;
 }
 
 button:focus {
@@ -223,8 +223,16 @@ body #cdawrap .carbon-text {
 
 @media screen and (max-width: 50em) {
 	.codrops-header {
+		display: flex;
+		flex-direction: column;
 		padding: 2em 5%;
 	}
+
+	.codrops-demos {
+		display: flex;
+		flex-direction: column;
+	}
+
 }
 
 @media screen and (max-width: 40em) {
